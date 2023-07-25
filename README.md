@@ -6,9 +6,9 @@ This project provides an implementation of a Decision Tree classifier using the 
 The Iris dataset is a multivariate dataset introduced by British biologist and statistician Ronald A. Fisher in 1936. It consists of 150 samples of Iris flowers, with each sample belonging to one of three species: Iris setosa, Iris versicolor, and Iris virginica. Each sample has four features (sepal length, sepal width, petal length, and petal width) measured in centimeters.
 
 # Dependencies:
-Python 3
-scikit-learn
-pandas
+Python 3,
+ scikit-learn, 
+ pandas
 
 # Iris Dataset
 The Iris dataset iris.csv contains 150 samples with the following columns:
